@@ -16,10 +16,10 @@ public class Ex8 {
 
         //int n = 10;
         if(nr >= 9 && nr <= 24){
-            System.out.println("Felicitari!!");
+            System.out.println("True");
         }
         else{
-            System.out.println("Nu este corect numarul introdus!");
+            System.out.println("False");
         }
     }
 }
